@@ -1,0 +1,4 @@
+node --inspect-brk nameOfFile
+
+in browser:
+chrome://inspect
